@@ -10,3 +10,7 @@ Learning Python fundamentals and GIT Workflow
 
 #Developer
 -'Name'-Vishal Gaurav
+
+#Developer
+-'Name'-Vishal Gaurav
+-Data scientist
