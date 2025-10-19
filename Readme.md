@@ -8,8 +8,7 @@ Learning Python fundamentals and GIT Workflow
 
 #Learning GIT Commands
 
-#Developer
--'Name'-Vishal Gaurav
+
 
 #Developer
 -'Name'-Vishal Gaurav
