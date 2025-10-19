@@ -7,3 +7,6 @@ Learning Python fundamentals and GIT Workflow
 -'calculator.py':Basic calculation operations
 
 #Learning GIT Commands
+
+#Developer
+-'Name'-Vishal Gaurav
